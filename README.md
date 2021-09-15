@@ -2,3 +2,7 @@
 * 占星術
 * Computer Introduction
 * Otaku Culture
+
+### Disability
+* ADHD
+* PDD
