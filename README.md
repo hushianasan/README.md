@@ -6,3 +6,4 @@
 ### >>Disability
 * ADHD
 * PDD
+* APD(聴覚情報処理障害)
