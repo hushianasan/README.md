@@ -7,6 +7,7 @@
 * ADHD
 * PDD
 * APD(聴覚情報処理障害)
+* Globus syndrome(咽頭異物感症)
 
 ### >>Comment
 For more complicated topics, 
